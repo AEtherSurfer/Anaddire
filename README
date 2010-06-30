@@ -1,0 +1,13 @@
+Instructions
+Make sure the latest version of FireFox is installed
+Make sure the latest version of Greasemonkey is installed
+Visit http://github.com/DataSurfer/Anaddire/raw/master/anaddire.user.js in FireFox
+Install the script
+Make sure you have an LDS account
+Visit https://secure.lds.org/units
+If you don't have an LDS account, create one
+Click [Member Directory]
+Click [with Photos]
+The page will take several seconds to load
+Once it is done loading Anaddire will reformat the page to maximize use of space on the page
+Print the page if you like
